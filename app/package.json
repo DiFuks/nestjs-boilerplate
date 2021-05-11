@@ -30,7 +30,7 @@
     "eslint-plugin-sonarjs": "^0.5.0",
     "ioredis": "^4.14.1",
     "json-stringify-safe": "^5.0.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "nest-winston": "^1.1.2",
     "nestjs-redis": "^1.2.5",
